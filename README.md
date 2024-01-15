@@ -7,7 +7,9 @@
 ### Challenge Overview:
 
 Input/Output Format: Specify the format of the input data and the expected output.
+
 Constraints: Outline any constraints or limitations on the solution.
+
 Example Cases: Include examples to illustrate the problem.
 
 ### Goals
