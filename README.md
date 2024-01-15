@@ -4,6 +4,15 @@
 
 ##### Coding challenges are exercises or problems designed to test a programmer's ability to write efficient, correct, and optimized code to solve specific problems. 
 
+## Challenge Overview:
+
+#### Provide a detailed overview of the coding challenge. 
+
+Problem Statement: Clearly state the problem to be solved.
+Input/Output Format: Specify the format of the input data and the expected output.
+Constraints: Outline any constraints or limitations on the solution.
+Example Cases: Include examples to illustrate the problem.
+
 ### Goals
 
 #### Skill Assessment:
@@ -59,3 +68,8 @@ Provide a competitive and rewarding environment.
 #### Community Building:
 
 Facilitate the formation of coding communities where members can collaborate, share insights, and learn from each other.
+
+## Credits
+
+
+
