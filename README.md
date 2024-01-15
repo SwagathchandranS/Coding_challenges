@@ -6,9 +6,6 @@
 
 ### Challenge Overview:
 
-#### Provide a detailed overview of the coding challenge. 
-
-Problem Statement: Clearly state the problem to be solved.
 Input/Output Format: Specify the format of the input data and the expected output.
 Constraints: Outline any constraints or limitations on the solution.
 Example Cases: Include examples to illustrate the problem.
