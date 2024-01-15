@@ -71,5 +71,7 @@ Facilitate the formation of coding communities where members can collaborate, sh
 
 ## Credits
 
+I extend our gratitude to Google for providing valuable resources and support during the development of this task.
+
 
 
