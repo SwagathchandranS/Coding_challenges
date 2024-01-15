@@ -4,7 +4,7 @@
 
 ##### Coding challenges are exercises or problems designed to test a programmer's ability to write efficient, correct, and optimized code to solve specific problems. 
 
-## Challenge Overview:
+### Challenge Overview:
 
 #### Provide a detailed overview of the coding challenge. 
 
